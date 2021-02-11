@@ -1,0 +1,11 @@
+.row{
+	margin-bottom: 15px;
+}
+.row {
+	border: 5px solid green; 
+	background-color: gray;
+}
+
+.col-md-4 {
+
+}
